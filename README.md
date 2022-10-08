@@ -1,5 +1,5 @@
 # 211-people-Korean-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/61
+
 
 ## Description
 It collects 211 Korean locals and is recorded in quiet indoor environment. 99 females, 112 males. Recording devices are mainstream Android phones and iPhones.
