@@ -4,7 +4,7 @@
 ## Description
 It collects 211 Korean locals and is recorded in quiet indoor environment. 99 females, 112 males. Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/61?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/61?source=Github
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
